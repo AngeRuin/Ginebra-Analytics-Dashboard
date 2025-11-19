@@ -1,0 +1,26 @@
+Game_Date,Player_Name,Position,Points ,Rebounds ,Assists,Steals ,Blocks,Turnovers,Shooting_Percentage ,Three_Point_Percentage ,Minutes_Played,Game_Outcome
+1/5/2024,LA Tenorio,Guard,22,4,7,2,0,2,55,45,35,Win
+1/5/2024,Scottie Thompson,Guard,15,10,8,3,1,1,48,32,34,Win
+1/5/2024,Japeth Aguilar,Forward,18,12,3,1,2,1,60,25,32,Win
+1/5/2024,Stanley Pringle,Forward,12,5,6,1,0,2,46,37,30,Win
+1/5/2024,Christian Standhardinger,Center,14,14,2,1,3,3,58,0,34,Win
+1/7/2024,LA Tenorio,Guard,28,3,5,3,1,3,61,50,37,Loss
+1/7/2024,Scottie Thompson,Guard,12,8,9,2,0,2,42,28,33,Loss
+1/7/2024,Stanley Pringle,Forward,18,6,4,1,0,1,49,35,32,Loss
+1/7/2024,Christian Standhardinger,Center,10,12,1,1,2,2,55,0,30,Loss
+1/7/2024,Japeth Aguilar,Forward,16,8,2,1,2,2,54,30,28,Loss
+1/10/2024,LA Tenorio,Guard,24,4,6,2,1,2,57,43,36,Win
+1/10/2024,Scottie Thompson,Guard,16,11,8,3,0,1,51,31,34,Win
+1/10/2024,Stanley Pringle,Forward,14,5,5,1,0,1,50,38,33,Win
+1/10/2024,Japeth Aguilar,Forward,20,10,3,2,2,1,62,29,35,Win
+1/10/2024,Christian Standhardinger,Center,15,15,2,1,3,2,64,0,34,Win
+1/12/2024,LA Tenorio,Guard,18,2,4,1,0,3,49,36,32,Loss
+1/12/2024,Scottie Thompson,Guard,14,9,7,3,1,1,47,30,34,Loss
+1/12/2024,Stanley Pringle,Forward,16,7,5,0,0,1,50,35,32,Loss
+1/12/2024,Japeth Aguilar,Forward,10,6,3,1,1,2,44,28,30,Loss
+1/12/2024,Christian Standhardinger,Center,8,11,1,0,2,3,50,0,31,Loss
+1/15/2024,LA Tenorio,Guard,26,5,8,3,0,2,59,48,37,Win
+1/15/2024,Scottie Thompson,Guard,17,12,6,2,1,1,53,34,35,Win
+1/15/2024,Stanley Pringle,Forward,13,8,7,2,0,1,51,36,34,Win
+1/15/2024,Japeth Aguilar,Forward,22,13,4,1,2,2,66,27,36,Win
+1/15/2024,Christian Standhardinger,Center,18,16,3,1,3,1,68,0,35,Win
