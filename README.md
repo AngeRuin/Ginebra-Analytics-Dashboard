@@ -16,11 +16,12 @@ This dashboard project provides a focused deep-dive into the performance statist
 
 ### **Solution: Interactive Power BI Dashboard**
 
-The dashboard offers an easy-to-digest view of complex basketball metrics, enabling users to quickly track and analyze key team and player performance indicators (KPIs).
+Designed an interactive dashboard to visualize team and player performance metrics, including **Average Points (16.64)**, **Shooting Accuracy (53.96%)**, and **Player Efficiency Ratings**.
 
-* **KPI Tracking:** Visualizes essential basketball metrics such as scoring efficiency, rebounding rates, and field goal percentages.
-* **Comparative Analysis:** Allows for dynamic comparison of individual player performance against team averages or historical benchmarks.
-* **Visualization Focus:** Utilizes interactive Power BI features to present game results, player contribution, and statistical trends.
+Implemented dynamic filtering (by Position and Game Date) to allow coaching staff to drill down into specific game scenarios and player contributions.
+
+Visualized key insights using line charts for efficiency trends and donut charts for Win/Loss records, enabling data-driven strategy evaluation.
+
 
 ### **🛠️ Technology Stack**
 
