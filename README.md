@@ -16,12 +16,16 @@ This dashboard project provides a focused deep-dive into the performance statist
 
 ### **Solution: Interactive Power BI Dashboard**
 
-Designed an interactive dashboard to visualize team and player performance metrics, including **Average Points (16.64)**, **Shooting Accuracy (53.96%)**, and **Player Efficiency Ratings**.
 
-Implemented dynamic filtering (by Position and Game Date) to allow coaching staff to drill down into specific game scenarios and player contributions.
+Key Features:
 
-Visualized key insights using line charts for efficiency trends and donut charts for Win/Loss records, enabling data-driven strategy evaluation.
+**KPI Cards:** Instant view of high-level metrics (Points, Assists, Shooting %).
 
+**Trend Analysis:** Line charts tracking Player Efficiency Rates over time.
+
+**Interactive Slicers:** Dynamic filtering by 'Position' and 'Game Date' for deep-dive analysis.
+
+**Tools Used:** Power BI, Excel (Data Source), Data Visualization.
 
 ### **🛠️ Technology Stack**
 
